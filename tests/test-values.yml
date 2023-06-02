@@ -1,6 +1,6 @@
 serviceAccount:
   enabled: true
-  imagePullSecrets:
+  imagePullSecretss:
   - name: private-registry
 
 bbtests:
