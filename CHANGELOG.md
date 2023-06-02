@@ -3,7 +3,7 @@
 > Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
-##### [6.0.0-bb.7] - 2023-01-12
+## [6.0.0-bb.7] - 2023-01-12
 ### Changed
 - Update image to pull from ghcr.io
 
@@ -21,7 +21,7 @@
 - Fixed typo in helm release dependencies in bigbang
 - Fixed helpers template file to include istio annotations
 
-#### [6.0.0-bb.3] - 2021-12-02
+## [6.0.0-bb.3] - 2021-12-02
 ### Changed
 - Updated Grafana dashboard support to align with Big Bang docs
 
