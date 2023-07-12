@@ -25,7 +25,7 @@ faults:
   testFail: false
   testTimeout: false
 
-# Kubernetes Service settings
+#### Kubernetes Service settings
 service:
   enabled: true
   annotations: {}
@@ -81,7 +81,7 @@ hpa:
   # average http requests per second per pod (k8s-prometheus-adapter)
   requests:
 
-# Redis address in the format <host>:<port>
+### Redis address in the format <host>:<port>
 cache: ""
 # Redis deployment
 redis:
