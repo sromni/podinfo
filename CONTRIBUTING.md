@@ -1,4 +1,4 @@
-# Contributing
+### Contributing
 
 This repository uses the following conventions:
 
